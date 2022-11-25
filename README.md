@@ -10,7 +10,8 @@
 * адаптивная верстка
 * Grid Layout
 * Flexbox
-Ссылка на страницу - 
+
+Ссылка на страницу - https://olgakurkina.github.io/russian-travel/
 
 **Интро**
 
