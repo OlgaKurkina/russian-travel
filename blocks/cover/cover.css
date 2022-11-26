@@ -1,7 +1,7 @@
 .cover {
   margin: 92px 48px 0 48px;
   width: calc(100% - 2*48px);
-  background-image: url(../../sprint-3-images/cover-trains.jpg);
+  background-image: url(../../images/cover-trains.jpg);
   background-position: center center;
   background-size: cover;
   display: flex;
@@ -9,7 +9,7 @@
   position: relative;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
  .cover {
    margin: 0;
    width: 100%;

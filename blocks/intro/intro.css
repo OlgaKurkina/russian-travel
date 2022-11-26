@@ -3,21 +3,21 @@
   width: calc(100% - 442px - 148px);
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .intro {
     margin: 92px 286px 92px 48px;
     width: calc(100% - 286px - 48px);
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .intro {
     width: calc( 100% - 2*24px);
     margin: 88px 24px 0 24px;
   }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 767px) {
   .intro {
     margin: 64px 16px 0 16px;
     width: calc(100% - 2*16px);

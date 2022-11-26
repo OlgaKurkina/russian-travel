@@ -2,9 +2,10 @@
   text-decoration: none;
   display: block;
   padding: 1px 1px;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(42, 44, 47, 0.3);
 }
   
 .cover__link:hover {
-  opacity: 0.8;
+  opacity: 1;
+  background-color: rgba(42, 44, 47, 0.8);
 }
